@@ -51,7 +51,7 @@ function App() {
           <h1>
             はじめまして、
             <br />
-            <span className="accent-text">Ochun</span> です。
+            <span className="accent-text">瀬倉隼英</span> です。
           </h1>
           <p className="lead">
             React を中心に、使いやすく心地よいWebをつくるフロントエンド開発者です。
